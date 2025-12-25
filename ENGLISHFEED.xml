@@ -32,14 +32,14 @@
     <itunes:category text="Courses"/>
   </itunes:category>
 
-  <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg"/>
+  <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/12/ENGLISHCOVER.jpg"/>
 
   <!-- Episode 1 -->
   <item>
     <title>Season 1 | Episode 1: Cognitive Algorithms Behind Physics</title>
     <itunes:title>Episode 1: Cognitive Algorithms Behind Physics</itunes:title>
 
-    <link>https://www.phy20.com/english-podcast/EP1-Cognitive-Algorithms</link>
+    <link>https://www.phy20.com/wp-content/uploads/2025/12/ENGLISHASL.mp3</link>
     <guid isPermaLink="false">EP1-1</guid>
 
     <pubDate>Thu, 25 Dec 2025 18:56:37 GMT</pubDate>
@@ -53,7 +53,7 @@
     ]]></description>
 
     <enclosure
-      url="https://mo1404rteza.github.io/FEED-R.P.E/ENGLISHFEED/ENGLISHASL.mp3"
+      url="https://www.phy20.com/wp-content/uploads/2025/12/ENGLISHASL.mp3"
       length="3875089"
       type="audio/mpeg"/>
 
@@ -63,9 +63,6 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/12/ENGLISHCOVER.jpg"/>
   </item>
-
-  <!-- Episode 2 -->
-  <!-- می‌توانید اپیزودهای بعدی را همین‌طور اضافه کنید -->
 
 </channel>
 </rss>
