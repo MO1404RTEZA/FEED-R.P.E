@@ -1,21 +1,71 @@
-<item>
-  <title>Cognitive Algorithms Behind Physics and Science</title>
-  <link>https://www.phy20.com/wp-content/uploads/2025/12/ENGLISHASL.mp3</link>
-  <guid isPermaLink="false">EP1-1</guid>
-  <pubDate>Thu, 25 Dec 2025 18:56:37 GMT</pubDate>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:media="http://search.yahoo.com/mrss/">
 
-  <description><![CDATA[
-Welcome to Season 1 of Radio Physics Education. In this season, we explore science's Algorithm – a way to understand the history of science not as a story of individual geniuses, but as a collective journey of discovery.
-]]></description>
+<channel>
 
-  <enclosure
-    url="https://mo1404rteza.github.io/FEED-R.P.E/ENGLISHFEED/ENGLISHASL.mp3"
-    length="3875089"
-    type="audio/mpeg"/>
+  <title>Radio Physics Education | From Understanding 0 to Intuition</title>
+  <link>https://www.phy20.com</link>
+  <description>English educational podcast on physics by Morteza Mohammadivand</description>
+  <language>en-us</language>
+  <lastBuildDate>Thu, 25 Dec 2025 22:00:00 +0330</lastBuildDate>
+  <copyright>© 2025 Radio Physics Education</copyright>
 
-  <itunes:duration>00:02:44</itunes:duration>
-  <itunes:season>1</itunes:season>
-  <itunes:episode>1</itunes:episode>
+  <itunes:author>Morteza Mohammadivand</itunes:author>
+  <itunes:summary>Radio Physics Education; an English podcast to understand physics concepts and experiments intuitively.</itunes:summary>
+  <itunes:type>episodic</itunes:type>
+
+  <managingEditor>info@phy20.com (Morteza Mohammadivand)</managingEditor>
+
+  <itunes:owner>
+    <itunes:name>Morteza Mohammadivand</itunes:name>
+    <itunes:email>info@phy20.com</itunes:email>
+  </itunes:owner>
+
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/12/ENGLISHCOVER.jpg"/>
-</item>
+
+  <itunes:category text="Science">
+    <itunes:category text="Physics"/>
+  </itunes:category>
+  <itunes:category text="Education">
+    <itunes:category text="Courses"/>
+  </itunes:category>
+
+  <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/03/podkastposter.jpg"/>
+
+  <!-- Episode 1 -->
+  <item>
+    <title>Season 1 | Episode 1: Cognitive Algorithms Behind Physics</title>
+    <itunes:title>Episode 1: Cognitive Algorithms Behind Physics</itunes:title>
+
+    <link>https://www.phy20.com/english-podcast/EP1-Cognitive-Algorithms</link>
+    <guid isPermaLink="false">EP1-1</guid>
+
+    <pubDate>Thu, 25 Dec 2025 18:56:37 GMT</pubDate>
+
+    <description><![CDATA[
+      <div style="direction: ltr; text-align: left; line-height: 1.6;">
+        <p>
+          Welcome to Season 1 of Radio Physics Education. In this episode, we explore the Non-Specialness Algorithm – understanding the history of science as a collective journey of discovery rather than individual geniuses.
+        </p>
+      </div>
+    ]]></description>
+
+    <enclosure
+      url="https://mo1404rteza.github.io/FEED-R.P.E/ENGLISHFEED/ENGLISHASL.mp3"
+      length="3875089"
+      type="audio/mpeg"/>
+
+    <itunes:duration>00:02:44</itunes:duration>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://www.phy20.com/wp-content/uploads/2025/12/ENGLISHCOVER.jpg"/>
+  </item>
+
+  <!-- Episode 2 -->
+  <!-- می‌توانید اپیزودهای بعدی را همین‌طور اضافه کنید -->
+
+</channel>
+</rss>
